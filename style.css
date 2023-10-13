@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: azure;
+}
+
+h1{
+    text-align: center;
+    padding-top: 100px;
+}
+
+form{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: solid;
+    border-color: azure;
+}
+
+#result{
+    padding-top: 20px;
+}
+
+#guide{
+    padding-top: 20px;
+}
